@@ -1,0 +1,125 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+56
+'ingrese el tipo de vehiculo dentro de comillas simples'
+6
+1
+16
+tipo_de_vehiculo
+2
+''
+5
+1
+16
+tipo_de_vehiculo
+4
+1
+38
+'ingrese el precio bruto del vehiculo'
+5
+1
+13
+ precio_bruto
+7
+0
+1
+21
+tipo_de_vehiculo= 'c'
+7
+0
+1
+46
+tipo_de_vehiculo= 'a'  AND  precio_bruto <= 20
+7
+0
+1
+49
+tipo_de_vehiculo ='a' AND 20 < precio_bruto  < 40
+7
+0
+1
+44
+tipo_de_vehiculo=' a' AND precio_bruto <= 40
+4
+1
+21
+'Ingreso Mal el Dato'
+13
+6
+1
+8
+impuesto
+1
+9
+4
+1
+29
+'El Impuesto Será ' ,impuesto
+13
+13
+6
+1
+8
+impuesto
+16
+precio_bruto / 5
+4
+1
+29
+'El Impuesto Será ' ,impuesto
+13
+13
+6
+1
+8
+impuesto
+1
+5
+4
+1
+29
+'El Impuesto Será ' ,impuesto
+13
+13
+7
+0
+1
+18
+ precio_bruto < 80
+7
+0
+1
+19
+ precio_bruto >= 80
+13
+6
+1
+8
+impuesto
+16
+precio_bruto / 2
+4
+1
+29
+'El Impuesto Será ' ,impuesto
+13
+13
+6
+1
+8
+impuesto
+1
+0
+4
+1
+29
+'El Impuesto Será ' ,impuesto
+13
+13
+1

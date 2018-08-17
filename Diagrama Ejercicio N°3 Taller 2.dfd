@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+103
+programa que calcula el numero de viajes , valor  que se gana por pasajes y que debe pagar el conductor
+4
+1
+44
+'ingrese el numero de personas que viajaran'
+5
+1
+10
+n_personas
+4
+1
+56
+'ingrese el numero de personas que caben en un solo bus'
+5
+1
+12
+personas_bus
+7
+0
+1
+26
+n_personas >= personas_bus
+6
+1
+8
+n_viajes
+1
+1
+13
+6
+3
+8
+n_viajes
+25
+n_personas / personas_bus
+21
+dinero_total_personas
+18
+n_personas * 10000
+22
+dinero_total_conductor
+15
+n_viajes * 2000
+4
+1
+41
+'El Total de Viajes Fueron:  ',  n_viajes
+4
+1
+57
+' El Dinero Total En Pasajes Es  :',dinero_total_personas
+4
+1
+56
+'El Dinero Total Conductor Es  :',dinero_total_conductor
+13
+1

@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+119
+programa que calcula el area sombreada dentro de un circulo  y fuera de un cuadrado que se encuentra dentro del circulo
+4
+1
+29
+'ingrese el valor del radio' 
+5
+1
+5
+radio
+6
+3
+12
+area_circulo
+18
+3.1415 * (radio^2)
+13
+area_cuadrado
+22
+(radio^2) + (radio^2) 
+14
+area_sombreada
+28
+area_circulo - area_cuadrado
+4
+1
+38
+'El Área Sombreada Es ',area_sombreada
+1

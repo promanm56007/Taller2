@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio3
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ Un\ colectivo\ es\ capaz\ de\ transportar\ n\ personas\ dentro\ de\ \u00E9l.\ Cada\ persona\ paga\ 10\ mil\ pesos\ por\ un\ viaje\ en\ el\r\n\ \ \ \ \ \ \ colectivo\ y\ el\ conductor\ debe\ pagar\ 2\ mil\ pesos\ por\ cada\ viaje\ que\ haga\ a\ la\ empresa\ propietaria\ del\ colectivo.\r\n\ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ Un\ hotel\ contrata\ el\ colectivo\ para\ transportar\ un\ grupo\ de\ turistas\ desde\ el\ aeropuerto\ hasta\ el\ hotel.\ Escriba\r\n\ \ \ \ \ \ \ un\ programa\ en\ Java,\ que\ a\ partir\ del\ n\u00FAmero\ de\ personas\ que\ caben\ en\ el\ colectivo\ y\ el\ n\u00FAmero\ de\ turistas\r\n\ \ \ \ \ \ \ que\ van\ al\ hotel,\ \r\n\ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ determine\ cu\u00E1ntos\ viajes\ debe\ realizar\ el\ colectivo,\ cu\u00E1nto\ dinero\ en\ total\ deber\u00E1n\ pagar\ los\r\nturistas\ al\ colectivo\ y\ cu\u00E1nto\ dinero\ deber\u00E1\ pagar\ el\ conductor\ al\ propietario.
+numComments=2

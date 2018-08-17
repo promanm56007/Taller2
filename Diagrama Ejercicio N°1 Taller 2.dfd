@@ -1,0 +1,95 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+34
+programa que transforma a pulgadas
+4
+1
+110
+'ingrese la unidad de medida dentro de comillas simples ,oprima aceptar e ingreseel valor a pasar a pulgadas '
+6
+1
+16
+unidad_de_medida
+2
+''
+5
+1
+36
+unidad_de_medida ,numero_a_convertir
+7
+0
+1
+21
+unidad_de_medida= 'p'
+7
+0
+1
+20
+unidad_de_medida='c'
+7
+0
+1
+20
+unidad_de_medida='l'
+7
+0
+1
+20
+unidad_de_medida='y'
+4
+1
+21
+'Ingreso Mal el Dato'
+13
+6
+1
+17
+numero_convertido
+23
+36 / numero_a_convertir
+4
+1
+68
+numero_a_convertir ,' yardas son ', numero_convertido   , 'pulgadas'
+13
+13
+6
+1
+17
+numero_convertido
+30
+190080.02 / numero_a_convertir
+4
+1
+70
+numero_a_convertir ,  'leguas son ' , numero_convertido ,   'pulgadas'
+13
+13
+6
+1
+17
+numero_convertido
+25
+2.54 / numero_a_convertir
+4
+1
+74
+numero_a_convertir  ,'centimetros son ', numero_convertido   , ' pulgadas'
+13
+13
+6
+1
+18
+numero_convertido 
+27
+0.0833 / numero_a_convertir
+4
+1
+65
+numero_a_convertir  ,'pies son' ,numero_convertido   ,' pulgadas'
+13
+1

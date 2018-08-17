@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ La\ siguiente\ figura\ expresa\ un\ cuadrado\ inscrito\ dentro\ de\ un\ c\u00EDrculo\ de\ radio\ r.\ Como\ se\ ve\ en\ la\ figura,\ el\ radio\r\n\ \ \ \ \ \ \ corresponde\ a\ la\ mitad\ de\ la\ diagonal\ del\ cuadrado.\ Su\ misi\u00F3n\ es\ escribir\ un\ programa\ que\ halle\ y\ retorne\ el\r\n\u00E1rea\ de\ sombreada\ que\ est\u00E1\ entre\ el\ c\u00EDrculo\ y\ el\ cuadrado.
+numComments=2

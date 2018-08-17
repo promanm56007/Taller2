@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio4
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ \ si\ el\ tipo\ del\ veh\u00EDculo\ es\ camioneta\ y\ el\ precio\ bruto\ es\ de\ menos\ de\ 80,\ no\ hay\ impuesto\ (o\ sea,\ es\ cero);\ \r\n\ \ pero\ las\ camionetas\ con\ un\ precio\ bruto\ de\ 80\ o\ m\u00E1s,\ tienen\ un\ impuesto\ igual\ a\ la\ mitad\ de\ \u00E9ste\ precio.\ \r\n\ \ Para\ los\ veh\u00EDculos\ de\ tipo\ autom\u00F3vil,\ si\ el\ precio\ es\ inferior\ a\ 20,\ el\ impuesto\ es\ de\ 5\ pesos;\r\n\ \ los\ autom\u00F3viles\ con\ un\ precio\ bruto\ entre\ 20\ y\ 40,\ tienen\ un\ impuesto\ igual\ a\ la\ quinta\ parte\ del\ precio;\r\n\ \ y\ los\ autom\u00F3viles\ con\ un\ precio\ por\ encima\ de\ 40\ tienen\ un\ impuesto\ de\ 9\ pesos.\ Escriba\ un\ programa\r\n\ \ \ \ \ \ \ \ en\ Java,\ en\ la\ cual,\ a\ partir\ del\ precio\ bruto\ y\ el\ tipo\ de\ veh\u00EDculo,\ encuentre\ el\ impuesto\ a\ pagar\ y\ el\ precio\ neto\ (precio\ bruto\ m\u00E1s\ el\ impuesto).\r\n
+numComments=2
